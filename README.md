@@ -1,0 +1,2 @@
+# Nitro
+Discord nitro generator
